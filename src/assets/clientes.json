@@ -1,0 +1,34 @@
+[
+	{
+		"documento": 123456789, 
+		"apellido": "Izan", 
+		"nombre": "Allan", 
+		"direccion": "Dirección 1", 
+		"telefono": 56484213, 
+		"estado": 1
+	},
+	{
+		"documento": 8712356489, 
+		"apellido": "Vera", 
+		"nombre": "Rigoberto", 
+		"direccion": "Dirección 2", 
+		"telefono": 15641231651, 
+		"estado": 1
+	},
+	{
+		"documento": 51556235435, 
+		"apellido": "Quito", 
+		"nombre": "Elta", 
+		"direccion": "Dirección 3", 
+		"telefono": 564894123, 
+		"estado": 0
+	},
+	{
+		"documento": 56135155, 
+		"apellido": "Hina", 
+		"nombre": "Edwin", 
+		"direccion": "Dirección 4", 
+		"telefono": 1003505363, 
+		"estado": 0
+	}
+]
